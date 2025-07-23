@@ -31,7 +31,6 @@ import {
   ExternalLink,
   Brain,
   Crown,
-  Handshake,
   BarChart3,
   LineChart,
   Heart,
@@ -53,7 +52,7 @@ export default function HomePage() {
     "Psicologia Organizacional": Brain,
     "Liderança de Equipes": Crown,
     "Compras Internacionais": Globe,
-    "Negociação Estratégica": Handshake,
+    // "Negociação Estratégica": Handshake, // removido pois não está em uso
     "Trade Marketing": TrendingUp,
     "Business Intelligence": BarChart3,
     "Análise de Mercado": Target,
